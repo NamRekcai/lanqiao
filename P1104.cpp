@@ -4,9 +4,9 @@ using namespace std;
 
 int main1104()
 {
-	int a = 0;//20元有几张
-	int b = 0;//10元有几张
-	int c = 0;//5元有几张
+	int a = 0;//20鍏冩湁鍑犲紶
+	int b = 0;//10鍏冩湁鍑犲紶
+	int c = 0;//5鍏冩湁鍑犲紶
 
 	for (a = 1; a <= 5; a++)
 		for (b = 1; b <= 10; b++)
